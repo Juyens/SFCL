@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw-jetbrains-plugin",
+  "elements": [
+    {
+      "id": "0khnm3tuucKOpcCH918_p",
+      "type": "text",
+      "x": 335,
+      "y": 281,
+      "width": 487.91961669921875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1927792639,
+      "version": 124,
+      "versionNonce": 839185681,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1790131163707,
+      "link": null,
+      "locked": false,
+      "text": "Al hacer doble click a .exe del programa\nwindow por defecto crea una ventana. En principio",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Al hacer doble click a .exe del programa\nwindow por defecto crea una ventana. En principio",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
