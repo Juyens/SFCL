@@ -1,0 +1,22 @@
+# CLion
+.idea/
+cmake-build-*/
+
+# CMake
+build/
+out/
+CMakeUserPresets.json
+
+# Visual Studio
+.vs/
+*.user
+
+# Compiled output
+*.exe
+*.dll
+*.lib
+*.a
+*.obj
+*.o
+*.pdb
+*.ilk
